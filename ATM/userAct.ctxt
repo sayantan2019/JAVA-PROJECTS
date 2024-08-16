@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=userAct
+comment1.params=bal
+comment1.target=userAct(double)
+comment2.params=amt
+comment2.target=boolean\ deposite(double)
+comment3.params=amt
+comment3.target=boolean\ withdrawl(double)
+comment4.params=
+comment4.target=double\ checkBal()
+numComments=5

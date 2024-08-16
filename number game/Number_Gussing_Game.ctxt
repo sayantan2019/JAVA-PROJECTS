@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Number_Gussing_Game
+comment1.params=min\ max
+comment1.target=int\ generateNumber(int,\ int)
+comment2.params=sc
+comment2.target=boolean\ askToPlay(java.util.Scanner)
+comment3.params=sc\ maxAttmp
+comment3.target=int\ playround(java.util.Scanner,\ int)
+comment4.params=guess\ numToGuess
+comment4.target=boolean\ chGuess(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

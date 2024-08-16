@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Quiz
+comment1.params=
+comment1.target=Quiz()
+comment2.params=quest
+comment2.target=void\ addQuest(Quest)
+comment3.params=quest
+comment3.target=void\ askQuest(Quest)
+comment4.params=
+comment4.target=void\ dResult()
+comment5.params=
+comment5.target=void\ start()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

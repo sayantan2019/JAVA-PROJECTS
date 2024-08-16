@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=student
+comment1.params=stdId\ name
+comment1.target=student(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getstdId()
+comment3.params=
+comment3.target=java.lang.String\ getname()
+comment4.params=
+comment4.target=java.util.List\ getregCourse()
+comment5.params=cor
+comment5.target=boolean\ regCourse(Course)
+numComments=6
